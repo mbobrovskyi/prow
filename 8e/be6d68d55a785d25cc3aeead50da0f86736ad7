@@ -1,0 +1,14 @@
+pkg/plugins/config.go
+  h_47cee5fa694435 2355-2356
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ebe6d68d55a785d25cc3aeead50da0f86736ad7",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
