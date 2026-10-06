@@ -1,0 +1,24 @@
+pkg/plugins/config_test.go
+  s_1e93d025d4630b::t_a587b40e2231f8 2064
+  s_1e93d025d4630b::t_583d21901bc46e 2181-2195
+  s_1e93d025d4630b::t_d20b3efe4672c0 2180
+pkg/plugins/config.go
+  s_1e93d025d4630b::t_fdcd7d2f103d18 2529-2530
+  s_1e93d025d4630b::t_f20e3b40e3da23 2616-2623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a50f3a089b82fde1212364e30d5845df9b4d3ef",
+  "prompts": {},
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
